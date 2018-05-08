@@ -1,0 +1,5 @@
+#Text to enter in issue when creating new branch.
+Created a new Exercise-8-NucleotideCount branch for working with this exercise.
+
+#Commit comment from VS to GitHub
+Commiting base template for Issue #[57] "Exercise 8 - NucleotideCount" exercise request.

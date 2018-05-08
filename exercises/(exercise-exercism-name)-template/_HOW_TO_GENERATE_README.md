@@ -1,0 +1,1 @@
+ configlet generate . --only raindrops
